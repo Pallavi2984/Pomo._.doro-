@@ -16,7 +16,7 @@ Welcome to **PomoChrono**, a desktop app built with **Electron.js** that helps y
 ![Task Setup](assets/set-task.png)
 
 ### **Focus Mode**
-![Focus Mode]([assets/break-timer.png](https://github.com/Pallavi2984/Pomodoro/blob/main/focus-mode.png))
+![Focus Mode](https://github.com/Pallavi2984/Pomodoro/blob/main/focus-mode.png)
 
 ## 🖥️ How It Works  
 1. **Set Your Task** → Enter the task you want to complete.  
