@@ -13,7 +13,7 @@ Welcome to **PomoChrono**, a desktop app built with **Electron.js** that helps y
 ![Home Screen](https://github.com/Pallavi2984/Pomodoro/blob/main/home-screen.png)
 
 ### **Task Setup**
-![Task Setup](assets/set-task.png)
+![Task Setup](https://github.com/Pallavi2984/Pomodoro/blob/main/set-task.png)
 
 ### **Focus Mode**
 ![Focus Mode](https://github.com/Pallavi2984/Pomodoro/blob/main/focus-mode.png)
