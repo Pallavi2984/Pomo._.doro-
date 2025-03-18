@@ -10,7 +10,7 @@ Welcome to **PomoChrono**, a desktop app built with **Electron.js** that helps y
 
 ## 📸 Screenshots
 ### **Home Screen**
-![Home Screen](assets/home-screen.png)
+![Home Screen](D:\Pomodoro\assets\home-screen.png)
 
 ### **Task Setup**
 ![Task Setup](assets/set-task.png)
